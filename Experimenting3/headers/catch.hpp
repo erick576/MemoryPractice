@@ -1,0 +1,8 @@
+//
+// Created by Ericn on 2020-05-05.
+//
+
+#ifndef EXPERIMENTING3_CATCH_HPP
+#define EXPERIMENTING3_CATCH_HPP
+
+#endif //EXPERIMENTING3_CATCH_HPP
