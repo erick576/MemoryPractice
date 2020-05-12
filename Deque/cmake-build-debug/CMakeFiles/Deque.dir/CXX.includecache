@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ericn/CLionProjects/Deque/header/Deque.hpp
+string
+-
+iostream
+-
+memory
+-
+
+C:/Users/Ericn/CLionProjects/Deque/main.cpp
+string
+-
+iostream
+-
+memory
+-
+header/Deque.hpp
+C:/Users/Ericn/CLionProjects/Deque/header/Deque.hpp
+src/Deque.cpp
+C:/Users/Ericn/CLionProjects/Deque/src/Deque.cpp
+
+C:/Users/Ericn/CLionProjects/Deque/src/Deque.cpp
+../header/Deque.hpp
+C:/Users/Ericn/CLionProjects/Deque/header/Deque.hpp
+string
+-
+iostream
+-
+memory
+-
+array
+-
+
